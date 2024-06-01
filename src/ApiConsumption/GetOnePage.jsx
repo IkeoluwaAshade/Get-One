@@ -35,7 +35,7 @@ const GetOnePage = () => {
 export default GetOnePage
 
 const Container = styled.div`
-  margin: 20px;
+  /* margin: 20px; */
   background-color: #eeeeee;
 
   display: flex;
